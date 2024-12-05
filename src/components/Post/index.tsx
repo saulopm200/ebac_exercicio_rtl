@@ -1,4 +1,4 @@
-import styles from './Post.module.css';
+import styles from './PostComments';
 
 import PostComments from '../PostComments';
 import { ReactNode } from 'react';
